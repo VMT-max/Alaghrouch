@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm alaghrouch bouchaib</h1>
-<h3 align="center"> Software Developement Engineer from Morocco</h3>
+<h3 align="center"> Software Engineer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agdari&label=Profile%20views&color=0e75b6&style=flat" alt="agdari" /> </p>
 
