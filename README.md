@@ -7,7 +7,6 @@
 
 - Most of my projects are available at [https://github.com/Startkod// ] -- it was a personal account convetered to an organizational account so this github account is relatively new
 
--  I regularly write articles on Debug Agent, Codename One, I'm ocassionally featured on foojay, dzone, JavaCodeGeeks and others
 
 - 💬 Ask me about **Java,Python**
 
