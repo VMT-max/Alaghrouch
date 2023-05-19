@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agdari&label=Profile%20views&color=0e75b6&style=flat" alt="agdari" /> </p>
 
-- 🔭 I’m currently working on [startkod](https://startkod.github.io/)
+A Passionate software Programmer  and a code Enthusiast  , Graduated from université de looraine, who believes in solving the Real World Problems using Programming and Software. Currently working as Software Engineer, Improving Skills and excelling  in the profession
+
 
 - Most of my projects are available at [https://github.com/Startkod// ] -- it was a personal account convetered to an organizational account so this github account is relatively new
 
