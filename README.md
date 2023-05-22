@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agdari&label=Profile%20views&color=0e75b6&style=flat" alt="agdari" /> </p>
 
-A Passionate software Programmer  and a code Enthusiast  , Graduated from université de looraine, who believes in solving the Real World Problems using Programming and Software. Currently working as Software Engineer, Improving Skills and excelling  in the profession
+I'm a Software Engineer with over 3 years of experience in programming web-based, software, and other technologies. Since early 2020 I started to code, it has become a passion of mine. I love to explore new technologies, constantly learn, and help contribute to open-source projects. Also like to share my knowledge, passion, and somewhat meticulous about programming and tech in general. Having a strong foundation in building web apps especially using JS and Java.
+
+Skills: JAVA/JAVAFX / FLUTTER/ JS / HTML / CSS
 
 
 - Most of my projects are available at [https://github.com/Startkod// ] -- it was a personal account convetered to an organizational account so this github account is relatively new
