@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm alaghrouch bouchaib</h1>
-<h3 align="center"> Software Engineer from Morocco</h3>
+<h3 align="center"> Software Developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agdari&label=Profile%20views&color=0e75b6&style=flat" alt="agdari" /> </p>
 
-I'm a Software Engineer with over 3 years of experience in programming web-based, software, and other technologies. Since early 2020 I started to code, it has become a passion of mine. I love to explore new technologies, constantly learn, and help contribute to open-source projects. Also like to share my knowledge, passion, and somewhat meticulous about programming and tech in general. Having a strong foundation in building web apps especially using JS and Java.
+I'm a Software Developer  with over 3 years of experience in programming web-based, software, and other technologies. Since early 2020 I started to code, it has become a passion of mine. I love to explore new technologies, constantly learn, and help contribute to open-source projects. Also like to share my knowledge, passion, and somewhat meticulous about programming and tech in general. Having a strong foundation in building web apps especially using JS and Java.
 
 Skills: JavaSwing / JavaFX / java for mobile/ JS / HTML / CSS
 
