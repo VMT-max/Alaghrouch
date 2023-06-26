@@ -5,7 +5,7 @@
 
 I'm a Software Developer  with over 3 years of experience in programming web-based, software, and other technologies. Since early 2020 I started to code, it has become a passion of mine. I love to explore new technologies, constantly learn, and help contribute to open-source projects. 
 
-Skills: JavaSwing / JavaFX /JavaME for mobile / JSP / JSF / JS / HTML / CSS
+Skills: JavaSwing / JavaFX /JavaME for mobile / JSP / JSF / JSTL /  JS / HTML / CSS
 
 
 
